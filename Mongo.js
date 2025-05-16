@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-mongoose.connect("mongodb+srv://arshadjamil13062003:ArshadJamil13@paymentcluster.gf4tc8s.mongodb.net/")
+mongoose.connect("url.svg")
 
 const UserSchema = new mongoose.Schema({
     username :{
